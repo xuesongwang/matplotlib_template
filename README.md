@@ -8,4 +8,4 @@ Also this [webpage](https://www.color-hex.com/color-palettes/popular.php) has pr
 
 For example:   
    
-   a combination for high contrasts can be:  ['# ff3f3f', '#ffcc06',  '#0a9ad7', '#9ad70a', '#d70a9a']
+   a combination for high contrasts can be:  ['#ff3f3f', '#ffcc06',  '#0a9ad7', '#9ad70a', '#d70a9a']
