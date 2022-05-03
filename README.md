@@ -10,7 +10,7 @@ histplot
 
 barplot with confidence intervals
 
-barplot with confidence intervals
+heatmap
 
 Also this [webpage](https://www.color-hex.com/color-palettes/popular.php) has provided some cool palates for graph plots:
 
