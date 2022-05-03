@@ -2,7 +2,15 @@
 
 
 This notebook is to develop a pipeline for generating plots using seaborn. Fig sizes/fonts/axises are tuned for paper submissions.
+So far we have covered templates for the following plots:
 
+violinplot
+
+histplot
+
+barplot with confidence intervals
+
+barplot with confidence intervals
 
 Also this [webpage](https://www.color-hex.com/color-palettes/popular.php) has provided some cool palates for graph plots:
 
