@@ -19,4 +19,7 @@ The example below shows how to change the palette into high contrasts:  ['#ff3f3
     cmap = ['#ff3f3f', '#ffcc06',  '#0a9ad7', '#9ad70a', '#d70a9a']
     
     ax = sns.barplot(x="day", y="total_bill", hue="sex", data=tips, errwidth=7, palette=cmap)
+    
+  
+Another useful link for [colormap](https://pod.hatenablog.com/entry/2018/09/20/212527)
                  
